@@ -11,7 +11,7 @@ Challenge completed
 
 ### `Challenge days`
 
-- [ ] `in progress` - 01th of programming 
+- [x] `Done` - 01th of programming 
 
 - [ ] `in progress` - 02th of programming
 
