@@ -13,7 +13,7 @@ Challenge completed
 
 - [x] `Done` - 01th of programming 
 
-- [ ] `in progress` - 02th of programming
+- [x] `Done` - 02th of programming
 
 - [ ] `in progress` - 03th of programming
 
